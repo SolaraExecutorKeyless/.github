@@ -1,12 +1,13 @@
 # 🌟 Solara Roblox Executor: Elevate Your Gameplay Experience
 
-For Roblox enthusiasts seeking to enhance their gaming experience, **Solara Executor** stands out as a premier script execution tool. Designed for Windows PC users, Solara offers a seamless, keyless interface that allows for the execution of Lua scripts, providing players with the ability to customize and control their gameplay like never before.([Solara Executor][2])
+For Roblox enthusiasts seeking to enhance their gaming experience, **Solara Executor** stands out as a premier script execution tool. Designed for Windows PC users, Solara offers a seamless, keyless interface that allows for the execution of Lua scripts, providing players with the ability to customize and control their gameplay like never before.
 
+[![Download Solara](https://img.shields.io/badge/Download-Solara-blueviolet)](https://rotools.bitbucket.io/executors/solara)
 ---
 
 ## 🔍 What is Solara Executor?
 
-Solara Executor is a Level 3 Lua script executor tailored for Roblox, enabling users to inject custom scripts into their games. With a **UNC Level of 57%**, it ensures reliable script execution across a wide range of Roblox games. Solara is praised for its **keyless and ad-free setup**, allowing users to launch scripts effortlessly without the hassle of entering keys or dealing with disruptive ads. It’s available exclusively for Windows PCs, making it one of the preferred choices for PC Roblox exploiters. ([GitHub][3], [Roblox Executor List Wiki][4])
+Solara Executor is a Level 3 Lua script executor tailored for Roblox, enabling users to inject custom scripts into their games. With a **UNC Level of 57%**, it ensures reliable script execution across a wide range of Roblox games. Solara is praised for its **keyless and ad-free setup**, allowing users to launch scripts effortlessly without the hassle of entering keys or dealing with disruptive ads. It’s available exclusively for Windows PCs, making it one of the preferred choices for PC Roblox exploiters. 
 
 ---
 
